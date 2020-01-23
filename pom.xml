@@ -27,8 +27,9 @@
 		<scope>test</scope>
 	</dependency>
 
-
     <!-- Local Jar -->
+    <!--
+
     <dependency>
       <groupId>com.orbund</groupId>
       <artifactId>sms-api-jar</artifactId>
@@ -56,7 +57,8 @@
     </dependency>
     <!-- End Local Jar -->
     
-    
+    -->
+
     <dependency>
         <groupId>oauth.signpost</groupId>
         <artifactId>signpost-core</artifactId>
