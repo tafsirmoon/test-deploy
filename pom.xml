@@ -26,7 +26,7 @@
 		<version>5.4.0</version>
 		<scope>test</scope>
 	</dependency>
-  
+
 
     <!-- Local Jar -->
     <dependency>
@@ -311,7 +311,7 @@
     </dependency>
   </dependencies>
 
-  </dependencies>
+ 
 
   <build>
     <finalName>Test-Deploy</finalName>
