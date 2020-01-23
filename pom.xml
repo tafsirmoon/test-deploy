@@ -27,38 +27,7 @@
 		<scope>test</scope>
 	</dependency>
 
-    <!-- Local Jar -->
-    <!--
-
-    <dependency>
-      <groupId>com.orbund</groupId>
-      <artifactId>sms-api-jar</artifactId>
-      <version>1.0.0</version>
-    </dependency>
-    <dependency>
-      <groupId>com.orbund</groupId>
-      <artifactId>jbars-jar</artifactId>
-      <version>1.0.0</version>
-    </dependency>
-    <dependency>
-      <groupId>com.orbund</groupId>
-      <artifactId>twilio-7.35.0-jar-with-dependencies-jar</artifactId>
-      <version>1.0.0</version>
-    </dependency>
-    <dependency>
-      <groupId>com.orbund</groupId>
-      <artifactId>paypal_base-jar</artifactId>
-      <version>1.0.0</version>
-    </dependency>
-    <dependency>
-      <groupId>com.orbund</groupId>
-      <artifactId>rt-jar</artifactId>
-      <version>1.0.0</version>
-    </dependency>
-    <!-- End Local Jar -->
-    
-    -->
-
+   
     <dependency>
         <groupId>oauth.signpost</groupId>
         <artifactId>signpost-core</artifactId>
